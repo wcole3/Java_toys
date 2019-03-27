@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+/Users/wcole/Desktop/Java_Playground/.metadata/.plugins/org.eclipse.jdt.core
+2264469573.index
+934998802.index
